@@ -16,3 +16,15 @@ p
 Ssrc/main/java/br/com/leet/code/easy/longestsubstringwithoutrepetition/Solution.java,d/d/dd8518083db15d2c4ec5d2a35727ea495a90defe
 G
 src/main/kotlin/Main.kt,d/8/d83ae3847b7d408136086cc5e9e95f5f7c126ed5
+m
+=src/main/kotlin/br/com/zeroufal/kotlin/ordenacao/Ordenacao.kt,8/5/85e5f5b7267edb31808a086869976132ea4c5ab0
+Z
+*src/main/kotlin/com/marcos/lib/TreeNode.kt,5/8/58f2c3be5c02013e107b69e0f7e036fbdf46317f
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+r
+Bsrc/main/kotlin/com/marcos/easy/maximumdepthbinarytree/Solution.kt,1/0/106c40dafa4e9f9539a466b0e73aa8c77c9830ec
+m
+=src/main/kotlin/com/marcos/easy/containsduplicate/Solution.kt,a/0/a0f55bf568b415104f6513e5de83268ebba6622e
+n
+>src/main/kotlin/com/marcos/easy/containsduplicate/Solution2.kt,0/5/05fc97e3763354cc8e30bcbb8ff0a7efc61028ef
