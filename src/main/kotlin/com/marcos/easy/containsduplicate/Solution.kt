@@ -1,4 +1,4 @@
-package org.example.com.marcos.leetcode.containsduplicate
+package com.marcos.easy.containsduplicate
 
 class Solution {
     fun containsDuplicate(nums: IntArray): Boolean {

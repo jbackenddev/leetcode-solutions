@@ -1,4 +1,4 @@
-package com.marcos.lib;
+package com.marcos.javalib;
 
 public class ListNode {
     public int val;

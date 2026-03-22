@@ -1,28 +1,68 @@
-# Java class files and build artifacts
+# ======================
+# Java
+# ======================
 *.class
+*.log
+*.ctxt
 *.jar
 *.war
 *.ear
-*.zip
-*.tar.gz
-/bin/
-/target/
-/build/
+hs_err_pid*
+replay_pid*
 
-# Maven-specific
-pom.xml.tag
-pom.xml.next
-pom.xml.bak
-pom.xml.versions
-pom.xml.releaseBackup
-# Also, anything in the "target" folder is ignored by the general rule above
+# ======================
+# Maven
+# ======================
+target/
+!.mvn/wrapper/maven-wrapper.jar
 
+# ======================
 # IntelliJ IDEA
+# ======================
 .idea/
 *.iml
 *.iws
 *.ipr
 
-# Operating System files
-.DS_Store # Mac
-Thumbs.db # Windows
+# ======================
+# VS Code (opcional)
+# ======================
+.vscode/
+
+# ======================
+# OS (MacOS)
+# ======================
+.DS_Store
+
+# ======================
+# Environment
+# ======================
+.env
+.env.*
+
+# ======================
+# Logs
+# ======================
+logs/
+*.log
+
+# ======================
+# Temporary files
+# ======================
+tmp/
+temp/
+
+# ======================
+# Build / cache
+# ======================
+out/
+
+# ======================
+# Docker
+# ======================
+docker-data/
+
+# ======================
+# Test / coverage
+# ======================
+coverage/

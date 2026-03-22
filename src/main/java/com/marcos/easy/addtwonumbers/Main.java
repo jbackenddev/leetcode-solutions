@@ -1,6 +1,6 @@
 package com.marcos.easy.addtwonumbers;
 
-import com.marcos.lib.ListNode;
+import com.marcos.javalib.ListNode;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package com.marcos.easy.removeduplicatesfromsortedlist;
 
-import com.marcos.lib.ListNode;
+import com.marcos.javalib.ListNode;
 
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {

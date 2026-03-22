@@ -1,6 +1,6 @@
 package com.marcos.easy.mergetwosortedlists;
 
-import com.marcos.lib.ListNode;
+import com.marcos.javalib.ListNode;
 
 import java.util.ArrayList;
 import java.util.List;

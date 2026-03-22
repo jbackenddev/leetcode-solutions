@@ -1,6 +1,6 @@
 package com.marcos.easy.addtwonumbers;
 
-import com.marcos.lib.ListNode;
+import com.marcos.javalib.ListNode;
 
 /**
  * Definition for singly-linked list.

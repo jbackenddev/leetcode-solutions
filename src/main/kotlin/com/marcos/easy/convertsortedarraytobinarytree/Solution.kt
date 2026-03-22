@@ -1,6 +1,5 @@
-package org.example.com.marcos.leetcode.convertsortedarraytobinarytree
+package com.marcos.easy.convertsortedarraytobinarytree
 
-import org.example.com.marcos.lib.TreeNode
 
 class Solution {
 

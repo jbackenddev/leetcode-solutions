@@ -1,37 +1,41 @@
 # 🚀 LeetCode Solutions — Java & Kotlin
 
-Repository dedicated to solving LeetCode problems with a focus on **technical interviews**, **algorithms**, and **software engineering**.
-
-![Java](https://img.shields.io/badge/Java-17+-orange)
-![Kotlin](https://img.shields.io/badge/Kotlin-1.9-purple)
-![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-yellow)
-![Status](https://img.shields.io/badge/status-in%20progress-blue)
-![Last Commit](https://img.shields.io/github/last-commit/jbackenddev/leetcode-solutions)
-
-> 🎯 Goal: develop strong algorithmic thinking and master common interview patterns.
+This repository documents my journey in solving algorithmic problems with a focus on **software engineering interviews**, **problem-solving patterns**, and **code quality at scale**.
 
 ---
 
-## 🧠 Tech Stack
+## 👨‍💻 LeetCode Profile
 
-- Java 17+
-- Kotlin
-- Data Structures & Algorithms
-- Paradigms: Imperative, Functional (Kotlin)
+📊 https://leetcode.com/u/zeroufal/
 
 ---
 
-## 📊 Statistics
+## 🎯 Engineering Focus
 
-| Difficulty | Count |
-|------------|-------|
-| 🟢 Easy    | 0     |
-| 🟡 Medium  | 0     |
-| 🔴 Hard    | 0     |
+Beyond solving problems, this repository emphasizes:
+
+- Writing **clean, maintainable code**
+- Identifying and applying **reusable patterns**
+- Understanding **trade-offs between approaches**
+- Communicating solutions clearly (as in real-world code reviews)
 
 ---
 
-## 📁 Structure
+## 🧠 Core Patterns & Topics
+
+- Arrays & Strings
+- Hashing (HashMap / HashSet)
+- Two Pointers & Sliding Window
+- Stack & Monotonic Stack
+- Trees & Binary Trees (DFS / BFS)
+- Graphs (Traversal, Topological Sort)
+- Recursion & Backtracking
+- Dynamic Programming (Top-down & Bottom-up)
+
+---
+
+## 📂 Repository Structure
+
 leetcode-solutions/
 │
 ├── java/
@@ -46,6 +50,34 @@ leetcode-solutions/
 │
 └── README.md
 
+
+---
+
+Each problem is self-contained:
+
+```text
+problem-name/
+ ├── Solution.java / Solution.kt
+ ├── README.md
+ └── result.png
+ ```
+
+## 🧠 Tech Stack
+
+- Java 17+
+- Kotlin
+- Data Structures & Algorithms
+- Paradigms: Imperative, Functional (Kotlin)
+
+---
+
+## 📊 Statistics
+
+| Difficulty | Count |
+|------------|-------|
+| 🟢 Easy    | 33    |
+| 🟡 Medium  | 03    |
+| 🔴 Hard    | 0     |
 
 ---
 

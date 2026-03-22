@@ -1,6 +1,6 @@
-package org.example.com.marcos.leetcode.symmetrictree
+package com.marcos.easy.symmetrictree
 
-import org.example.com.marcos.lib.TreeNode
+import com.marcos.kotlinlib.TreeNode
 
 class Solution {
     fun isSymmetric(root: TreeNode?): Boolean {

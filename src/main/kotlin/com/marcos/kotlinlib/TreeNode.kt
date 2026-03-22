@@ -1,4 +1,4 @@
-package org.example.com.marcos.lib
+package com.marcos.kotlinlib
 
 
 class TreeNode(var `val`: Int) {

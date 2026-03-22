@@ -1,6 +1,6 @@
-package org.example.com.marcos.leetcode.maximumdepthbinarytree
+package com.marcos.easy.maximumdepthbinarytree
 
-import org.example.com.marcos.lib.TreeNode
+import com.marcos.kotlinlib.TreeNode
 
 class Solution {
     fun maxDepth(root: TreeNode?): Int {

@@ -1,6 +1,6 @@
-package org.example.com.marcos.leetcode.sametree
+package com.marcos.easy.sametree
 
-import org.example.com.marcos.lib.TreeNode
+import com.marcos.kotlinlib.TreeNode
 
 class Solution {
     fun isSameTree(p: TreeNode?, q: TreeNode?): Boolean {
