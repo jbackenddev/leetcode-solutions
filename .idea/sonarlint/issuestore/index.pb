@@ -66,3 +66,11 @@ e
 5src/main/java/com/marcos/easy/p0112_pathsum/README.md,2/b/2beefbbbcc2c4158924a57df9515a7a14ea1e2ce
 d
 4src/main/java/com/marcos/easy/p0001_twosum/README.md,f/e/feca159058bf80cf0870eda6e27233e9a7347c60
+j
+:src/main/java/com/marcos/easy/romantointeger/Solution.java,a/8/a8479f7fdd6e11a461d714d5bcfba211e11d4167
+n
+>src/main/java/com/marcos/easy/p0136_singlenumber/Solution.java,d/f/dfd58235ec8f17fd420b49e48148b30ca01007b9
+r
+Bsrc/test/java/com/marcos/easy/p0136_singlenumber/SolutionTest.java,9/8/98153cbc4c3c12d25ca28869fdf9a2c77b9f2479
+j
+:src/main/java/com/marcos/easy/p0136_singlenumber/README.md,1/3/133c81601210383c6318ae0e07ebebe506a69777
