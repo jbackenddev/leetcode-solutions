@@ -1,4 +1,4 @@
-package com.marcos.easy.p0067addbinary;
+package com.marcos.easy.p0067_addbinary;
 
 class Solution {
     public String addBinary(String a, String b) {

@@ -1,4 +1,4 @@
-package com.marcos.easy.p0067addbinary;
+package com.marcos.easy.p0067_addbinary;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
