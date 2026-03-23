@@ -1,4 +1,4 @@
-package com.marcos.easy.addbinary;
+package com.marcos.easy.p0067addbinary;
 
 class Solution {
     public String addBinary(String a, String b) {
@@ -72,13 +72,5 @@ class Solution {
         } else {
             return '1';
         }
-    }
-
-    public static void main(String[] args) {
-        Solution s = new Solution();
-        System.out.println(s.addBinary("10", "0"));
-        System.out.println(s.addBinary("10", "1"));
-        System.out.println(s.addBinary("11", "0"));
-        System.out.println(s.addBinary("11", "1"));
     }
 }
