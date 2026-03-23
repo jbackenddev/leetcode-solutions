@@ -16,7 +16,7 @@ class SolutionTest {
     @DisplayName("Add Binary - Valid scenarios")
     @ParameterizedTest(name = "{0}")
     @MethodSource("provideAddBinaryTestCases")
-    void shouldReturnWhetherNumberIsPalindrome(String description, String a, String b, String expected) {
+    void shouldReturnTheAddOfTwoBinaryNumbers(String description, String a, String b, String expected) {
         String result = solution.addBinary(a, b);
 
         assertEquals(expected, result);
