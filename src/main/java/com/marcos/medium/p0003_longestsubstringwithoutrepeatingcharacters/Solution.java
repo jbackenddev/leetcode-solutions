@@ -1,4 +1,4 @@
-package com.marcos.easy.longestsubstringwithoutrepetition;
+package com.marcos.medium.p0003_longestsubstringwithoutrepeatingcharacters;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -20,12 +20,5 @@ class Solution {
         }
 
         return max;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().lengthOfLongestSubstring("dvdf"));
-        System.out.println(new Solution().lengthOfLongestSubstring("abcabcbb"));
-        System.out.println(new Solution().lengthOfLongestSubstring("bbbbb"));
-        System.out.println(new Solution().lengthOfLongestSubstring("pwwkew"));
     }
 }

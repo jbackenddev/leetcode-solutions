@@ -2,7 +2,6 @@ package com.marcos.medium.p0002_addtwonumbers;
 
 import com.marcos.javalib.ListNode;
 import com.marcos.javalib.ListNodeService;
-import com.marcos.medium.p0002_addtwonumbers.Solution;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
