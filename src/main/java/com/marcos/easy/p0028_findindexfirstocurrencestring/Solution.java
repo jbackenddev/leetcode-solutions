@@ -1,4 +1,4 @@
-package com.marcos.easy.findindexfirstocurrencestring;
+package com.marcos.easy.p0028_findindexfirstocurrencestring;
 
 class Solution {
     public int strStr(String haystack, String needle) {
@@ -37,12 +37,5 @@ class Solution {
         }
 
         return result;
-    }
-
-    public static void main(String[] args) {
-        String haystack = "mississippi";
-        String needle = "issip";
-
-        System.out.println(new Solution().strStr(haystack, needle));
     }
 }

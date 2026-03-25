@@ -1,4 +1,4 @@
-package com.marcos.easy.searchinsertposition;
+package com.marcos.easy.p0035_searchinsertposition;
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
@@ -28,9 +28,4 @@ class Solution {
             return middle;
         }
     }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().searchInsert(new int[] {1,3}, 2));
-    }
-
 }

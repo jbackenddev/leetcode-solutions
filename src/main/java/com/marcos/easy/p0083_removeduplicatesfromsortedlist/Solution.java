@@ -1,4 +1,4 @@
-package com.marcos.easy.removeduplicatesfromsortedlist;
+package com.marcos.easy.p0083_removeduplicatesfromsortedlist;
 
 import com.marcos.javalib.ListNode;
 
@@ -20,17 +20,5 @@ class Solution {
         }
 
         return head;
-    }
-
-
-
-    public static void main(String[] args) {
-        ListNode head = new ListNode(1, new ListNode(1, new ListNode(3)));
-        ListNode node = new Solution().deleteDuplicates(head);
-
-        while(node != null) {
-            System.out.println(node.val);
-            node = node.next;
-        }
     }
 }

@@ -1,4 +1,4 @@
-package com.marcos.easy.longestcommonprefix;
+package com.marcos.easy.p0014_longestcommonprefix;
 
 class Solution {
     private String getInitialPrefix(String[] strs) {
@@ -40,9 +40,5 @@ class Solution {
         }
 
         return prefix;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().longestCommonPrefix(new String[]{"reflower","flow","flight"}));
     }
 }

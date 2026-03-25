@@ -1,6 +1,4 @@
-package com.marcos.easy.mergesortedarray;
-
-import java.util.Arrays;
+package com.marcos.easy.p0088_mergesortedarray;
 
 class Solution {
     public int[] merge(int[] nums1, int m, int[] nums2, int n) {
@@ -32,26 +30,5 @@ class Solution {
         }
 
         return result;
-    }
-
-    public static void main(String[] args) {
-        int m = 3;
-        int n = 3;
-        int[] nums1 = new int[m + n];
-        int[] nums2 = new int[n];
-
-        nums1[0] = 1;
-        nums1[1] = 2;
-        nums1[2] = 3;
-        nums1[3] = 0;
-        nums1[4] = 0;
-        nums1[5] = 0;
-
-        nums2[0] = 2;
-        nums2[1] = 5;
-        nums2[2] = 6;
-
-        Solution s = new Solution();
-        Arrays.stream(s.merge(nums1, m, nums2, n)).forEach(System.out::println);
     }
 }

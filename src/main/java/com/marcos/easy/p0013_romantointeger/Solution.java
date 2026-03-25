@@ -1,4 +1,4 @@
-package com.marcos.easy.romantointeger;
+package com.marcos.easy.p0013_romantointeger;
 
 class Solution {
     public static final int I_VALUE = 1;
@@ -104,7 +104,4 @@ class Solution {
         return result;
     }
 
-    public static void main(String[] args) {
-        System.out.println(new Solution().romanToInt("MCMXCIV"));
-    }
 }

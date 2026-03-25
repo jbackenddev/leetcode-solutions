@@ -1,4 +1,4 @@
-package com.marcos.easy.removeduplicatesfromsortedarray;
+package com.marcos.easy.p0026_removeduplicatesfromsortedarray;
 
 class Solution {
     public int removeDuplicates(int[] nums) {
@@ -19,15 +19,4 @@ class Solution {
         return head;
     }
 
-    public static void main(String[] args) {
-        int[] nums = new int[] {1,1,2};
-        int[] expectedNums = new int[] {1,2};
-
-        int k = new Solution().removeDuplicates(nums);
-
-        assert k == expectedNums.length;
-        for (int i = 0; i < k; i++) {
-            assert nums[i] == expectedNums[i];
-        }
-    }
 }

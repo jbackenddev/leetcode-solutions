@@ -1,9 +1,6 @@
-package com.marcos.easy.mergetwosortedlists;
+package com.marcos.easy.p0021_mergetwosortedlists;
 
 import com.marcos.javalib.ListNode;
-
-import java.util.ArrayList;
-import java.util.List;
 
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
@@ -52,23 +49,4 @@ class Solution {
         return listHead;
     }
 
-    public static void main(String[] args) {
-
-        //ListNode list1 = new ListNode(1, new ListNode(2, new ListNode(4)));
-        //ListNode list2 = new ListNode(1, new ListNode(3, new ListNode(4, new ListNode(5))));
-
-        ListNode list1 = new ListNode();
-        ListNode list2 = new ListNode();
-
-        ListNode head = new Solution().mergeTwoLists(null, null);
-
-        List<Integer> flatMap = new ArrayList<>();
-
-        while(head != null) {
-            flatMap.add(head.val);
-            head = head.next;
-        }
-
-        System.out.println(flatMap);
-    }
 }

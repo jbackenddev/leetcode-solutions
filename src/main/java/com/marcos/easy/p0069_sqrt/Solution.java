@@ -1,4 +1,4 @@
-package com.marcos.easy.sqrt;
+package com.marcos.easy.p0069_sqrt;
 
 class Solution {
     public int mySqrt(int x) {
@@ -12,11 +12,5 @@ class Solution {
         } while(root * root < x);
 
         return (int) --root;
-    }
-
-    public static void main(String[] args) {
-        Solution s = new Solution();
-
-        System.out.println(s.mySqrt(2147395801));
     }
 }
