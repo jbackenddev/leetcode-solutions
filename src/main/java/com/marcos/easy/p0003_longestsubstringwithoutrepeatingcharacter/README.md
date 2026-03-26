@@ -70,4 +70,9 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/
 ![Accepted](./accepted.png)
 
 - Runtime: 590 ms (Beats 5.10%)
-  - Memory: 47.34 MB (Beats 6.51%)
+- Memory: 47.34 MB (Beats 6.51%)
+
+---
+
+## 🔗 Submission (login required)
+https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1927477417
