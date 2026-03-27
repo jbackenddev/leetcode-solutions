@@ -114,3 +114,11 @@ n
 Wsrc/main/java/com/marcos/easy/p0003_longestsubstringwithoutrepeatingcharacter/README.md,6/c/6c4a89219a20cc530670d4d4888e7949ea3f7ce1
 l
 <src/main/java/com/marcos/easy/p0013_romantointeger/README.md,9/0/9063f3580744293bcfd0752dbfc497e8b85b066d
+t
+Dsrc/main/java/com/marcos/medium/p0006_zigzagconversion/Solution.java,9/9/9926d87ba67d99f6a3781acb1eab0acfaa39ce5d
+x
+Hsrc/test/java/com/marcos/medium/p0006_zigzagconversion/SolutionTest.java,f/f/ffd4ead8f1ec7330e8b5d02ed4f57ee72624ccbc
+p
+@src/main/java/com/marcos/medium/p0006_zigzagconversion/README.md,5/7/57f0b691e3051d00489caaa7314e64d34351bacc
+u
+Esrc/main/java/com/marcos/easy/p0014_longestcommonprefix/Solution.java,f/2/f2fc11cdd26e9c56bae4bf773044f83a1d3ad720

@@ -75,8 +75,8 @@ problem-name/
 
 | Difficulty | Count |
 |------------|-------|
-| 🟢 Easy    | 33    |
-| 🟡 Medium  | 03    |
+| 🟢 Easy    | 38    |
+| 🟡 Medium  | 04    |
 | 🔴 Hard    | 0     |
 
 ---
@@ -91,6 +91,12 @@ problem-name/
 - Dynamic Programming
 - Graphs (BFS / DFS)
 - Greedy
+
+---
+
+## Topics
+
+![All Topics](./src/main/resources/topics.png)
 
 ---
 
