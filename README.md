@@ -76,7 +76,7 @@ problem-name/
 | Difficulty | Count |
 |------------|-------|
 | 🟢 Easy    | 34    |
-| 🟡 Medium  | 05    |
+| 🟡 Medium  | 06    |
 | 🔴 Hard    | 0     |
 
 ---

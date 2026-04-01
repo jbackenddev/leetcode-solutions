@@ -126,3 +126,9 @@ q
 Asrc/main/java/com/marcos/easy/p0014_longestcommonprefix/README.md,9/7/974a2ba352a249957ea3b090638b49551bc2c6b1
 y
 Isrc/test/java/com/marcos/easy/p0014_longestcommonprefix/SolutionTest.java,f/7/f7ae36a8bd1058c2c444e57eb164cc67a9d5c60f
+r
+Bsrc/main/java/com/marcos/medium/p0012_integertoroman/Solution.java,7/9/79b5f464ef6e7534bcb1182e50e97993ad9fe1e7
+v
+Fsrc/test/java/com/marcos/medium/p0012_integertoroman/SolutionTest.java,e/1/e10b1a412f403864f7e8f361d757319ce9ce1ec0
+n
+>src/main/java/com/marcos/medium/p0012_integertoroman/README.md,6/8/6830d261cfa0f4469c2aac586b2765faa9ed1469
