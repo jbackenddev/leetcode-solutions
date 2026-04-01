@@ -122,3 +122,7 @@ p
 @src/main/java/com/marcos/medium/p0006_zigzagconversion/README.md,5/7/57f0b691e3051d00489caaa7314e64d34351bacc
 u
 Esrc/main/java/com/marcos/easy/p0014_longestcommonprefix/Solution.java,f/2/f2fc11cdd26e9c56bae4bf773044f83a1d3ad720
+q
+Asrc/main/java/com/marcos/easy/p0014_longestcommonprefix/README.md,9/7/974a2ba352a249957ea3b090638b49551bc2c6b1
+y
+Isrc/test/java/com/marcos/easy/p0014_longestcommonprefix/SolutionTest.java,f/7/f7ae36a8bd1058c2c444e57eb164cc67a9d5c60f
