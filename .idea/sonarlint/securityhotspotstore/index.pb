@@ -138,3 +138,9 @@ h
 8src/main/java/com/marcos/easy/p0283_movezeroes/README.md,4/8/48198c6bc2daa92b879847f537cd916f9be4fc26
 p
 @src/test/java/com/marcos/easy/p0283_movezeroes/SolutionTest.java,f/c/fc5050ca3814f953d681dcd8fd35b621ff307109
+o
+?src/main/java/com/marcos/easy/p0392_issubsequence/Solution.java,5/e/5efd8a464aa704b7ec23b7b3888cdd02e0eaca15
+s
+Csrc/test/java/com/marcos/easy/p0392_issubsequence/SolutionTest.java,9/6/966ee4c7f89f89ba19be81965c9fd684d69c3e3f
+k
+;src/main/java/com/marcos/easy/p0392_issubsequence/README.md,0/7/07c7727457fbe9ab3f7731ef1f39153b8086ab5d
