@@ -132,3 +132,9 @@ v
 Fsrc/test/java/com/marcos/medium/p0012_integertoroman/SolutionTest.java,e/1/e10b1a412f403864f7e8f361d757319ce9ce1ec0
 n
 >src/main/java/com/marcos/medium/p0012_integertoroman/README.md,6/8/6830d261cfa0f4469c2aac586b2765faa9ed1469
+l
+<src/main/java/com/marcos/easy/p0283_movezeroes/Solution.java,5/d/5d706a2ff14955ca7ef7158f27fe71a4c14d88a1
+h
+8src/main/java/com/marcos/easy/p0283_movezeroes/README.md,4/8/48198c6bc2daa92b879847f537cd916f9be4fc26
+p
+@src/test/java/com/marcos/easy/p0283_movezeroes/SolutionTest.java,f/c/fc5050ca3814f953d681dcd8fd35b621ff307109

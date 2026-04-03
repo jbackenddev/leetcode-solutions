@@ -7,6 +7,9 @@ Given a non-empty array of integers nums, every element appears twice except for
 
 The solution uses **bit manipulation (XOR)** to identify the unique element.
 
+## 🧠 Why this approach?
+Chosen for optimal time complexity and clarity.
+
 ## ⏱ Complexity
 - Time: O(n), since we may need to visit every node.
 - Space: O(h), where h is the height of the tree, due to recursion stack. In the worst case, it becomes O(n).
