@@ -144,3 +144,9 @@ s
 Csrc/test/java/com/marcos/easy/p0392_issubsequence/SolutionTest.java,9/6/966ee4c7f89f89ba19be81965c9fd684d69c3e3f
 k
 ;src/main/java/com/marcos/easy/p0392_issubsequence/README.md,0/7/07c7727457fbe9ab3f7731ef1f39153b8086ab5d
+u
+Esrc/main/java/com/marcos/easy/p0021_mergetwosortedlists/Solution.java,f/3/f3b328a85ddf845e45ca0a7eb2dce32882f0151d
+q
+Asrc/main/java/com/marcos/easy/p0021_mergetwosortedlists/README.md,1/7/1799cdd297fbf3baa1fce4112213881f84afcce9
+y
+Isrc/test/java/com/marcos/easy/p0021_mergetwosortedlists/SolutionTest.java,6/a/6a31d81c18b0951901df863195ce3e1ced9ae0cf
